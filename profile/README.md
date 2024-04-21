@@ -5,4 +5,4 @@ The repository is [`giravolta-frontend`](https://github.com/innoit-es/giravolta-
 
 # New RFP challenge
 ## Frontend
-The repository is [`blazin](https://github.com/innoit-es/blazin)
+The repository is [`blazin`](https://github.com/innoit-es/blazin)
